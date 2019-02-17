@@ -14,6 +14,17 @@
 		2C2BF1EC221933DB00EEE59F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C2BF1EA221933DB00EEE59F /* LaunchScreen.storyboard */; };
 		2C2BF1F7221933DB00EEE59F /* bookXCHANGETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2BF1F6221933DB00EEE59F /* bookXCHANGETests.swift */; };
 		2C2BF202221933DB00EEE59F /* bookXCHANGEUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2BF201221933DB00EEE59F /* bookXCHANGEUITests.swift */; };
+		2C2BF21022193DAD00EEE59F /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2BF20F22193DAD00EEE59F /* ProfileViewController.swift */; };
+		2C2BF21222193F0A00EEE59F /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2BF21122193F0A00EEE59F /* MainTabBarController.swift */; };
+		2C2BF21422193F2300EEE59F /* ProfileNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2BF21322193F2300EEE59F /* ProfileNavigationController.swift */; };
+		2C6F32382219E1FC00C98326 /* ListingNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F32372219E1FC00C98326 /* ListingNavigationController.swift */; };
+		2C6F323A2219EA2700C98326 /* ShopNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F32392219EA2700C98326 /* ShopNavigationController.swift */; };
+		2C6F323C2219F42800C98326 /* ListingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F323B2219F42800C98326 /* ListingViewController.swift */; };
+		2C6F323E221A01D600C98326 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F323D221A01D600C98326 /* PostTableViewCell.swift */; };
+		2C6F3240221A020900C98326 /* postTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F323F221A020900C98326 /* postTableViewController.swift */; };
+		2C6F3243221A024800C98326 /* POSTViewControllerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F3241221A024800C98326 /* POSTViewControllerCell.swift */; };
+		2C6F3244221A024800C98326 /* POSTViewControllerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C6F3242221A024800C98326 /* POSTViewControllerCell.xib */; };
+		2C6F3246221A101B00C98326 /* ShopProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6F3245221A101B00C98326 /* ShopProfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +58,17 @@
 		2C2BF1FD221933DB00EEE59F /* bookXCHANGEUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bookXCHANGEUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C2BF201221933DB00EEE59F /* bookXCHANGEUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bookXCHANGEUITests.swift; sourceTree = "<group>"; };
 		2C2BF203221933DB00EEE59F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C2BF20F22193DAD00EEE59F /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		2C2BF21122193F0A00EEE59F /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+		2C2BF21322193F2300EEE59F /* ProfileNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileNavigationController.swift; sourceTree = "<group>"; };
+		2C6F32372219E1FC00C98326 /* ListingNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingNavigationController.swift; sourceTree = "<group>"; };
+		2C6F32392219EA2700C98326 /* ShopNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopNavigationController.swift; sourceTree = "<group>"; };
+		2C6F323B2219F42800C98326 /* ListingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingViewController.swift; sourceTree = "<group>"; };
+		2C6F323D221A01D600C98326 /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
+		2C6F323F221A020900C98326 /* postTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postTableViewController.swift; sourceTree = "<group>"; };
+		2C6F3241221A024800C98326 /* POSTViewControllerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POSTViewControllerCell.swift; sourceTree = "<group>"; };
+		2C6F3242221A024800C98326 /* POSTViewControllerCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = POSTViewControllerCell.xib; sourceTree = "<group>"; };
+		2C6F3245221A101B00C98326 /* ShopProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopProfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +99,7 @@
 		2C2BF1D5221933D900EEE59F = {
 			isa = PBXGroup;
 			children = (
+				2C6F323D221A01D600C98326 /* PostTableViewCell.swift */,
 				2C2BF1E0221933D900EEE59F /* bookXCHANGE */,
 				2C2BF1F5221933DB00EEE59F /* bookXCHANGETests */,
 				2C2BF200221933DB00EEE59F /* bookXCHANGEUITests */,
@@ -103,6 +126,16 @@
 				2C2BF1E8221933DB00EEE59F /* Assets.xcassets */,
 				2C2BF1EA221933DB00EEE59F /* LaunchScreen.storyboard */,
 				2C2BF1ED221933DB00EEE59F /* Info.plist */,
+				2C2BF20F22193DAD00EEE59F /* ProfileViewController.swift */,
+				2C6F32372219E1FC00C98326 /* ListingNavigationController.swift */,
+				2C6F32392219EA2700C98326 /* ShopNavigationController.swift */,
+				2C2BF21122193F0A00EEE59F /* MainTabBarController.swift */,
+				2C2BF21322193F2300EEE59F /* ProfileNavigationController.swift */,
+				2C6F323B2219F42800C98326 /* ListingViewController.swift */,
+				2C6F323F221A020900C98326 /* postTableViewController.swift */,
+				2C6F3241221A024800C98326 /* POSTViewControllerCell.swift */,
+				2C6F3242221A024800C98326 /* POSTViewControllerCell.xib */,
+				2C6F3245221A101B00C98326 /* ShopProfile.swift */,
 			);
 			path = bookXCHANGE;
 			sourceTree = "<group>";
@@ -229,6 +262,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C6F3244221A024800C98326 /* POSTViewControllerCell.xib in Resources */,
 				2C2BF1EC221933DB00EEE59F /* LaunchScreen.storyboard in Resources */,
 				2C2BF1E9221933DB00EEE59F /* Assets.xcassets in Resources */,
 				2C2BF1E7221933D900EEE59F /* Main.storyboard in Resources */,
@@ -256,8 +290,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C6F323A2219EA2700C98326 /* ShopNavigationController.swift in Sources */,
+				2C6F32382219E1FC00C98326 /* ListingNavigationController.swift in Sources */,
+				2C2BF21022193DAD00EEE59F /* ProfileViewController.swift in Sources */,
+				2C6F3246221A101B00C98326 /* ShopProfile.swift in Sources */,
 				2C2BF1E4221933D900EEE59F /* ViewController.swift in Sources */,
+				2C2BF21222193F0A00EEE59F /* MainTabBarController.swift in Sources */,
 				2C2BF1E2221933D900EEE59F /* AppDelegate.swift in Sources */,
+				2C2BF21422193F2300EEE59F /* ProfileNavigationController.swift in Sources */,
+				2C6F3240221A020900C98326 /* postTableViewController.swift in Sources */,
+				2C6F323C2219F42800C98326 /* ListingViewController.swift in Sources */,
+				2C6F3243221A024800C98326 /* POSTViewControllerCell.swift in Sources */,
+				2C6F323E221A01D600C98326 /* PostTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +477,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 68V7PK2JUW;
 				INFOPLIST_FILE = bookXCHANGE/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +495,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 68V7PK2JUW;
 				INFOPLIST_FILE = bookXCHANGE/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
